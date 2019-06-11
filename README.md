@@ -1,5 +1,5 @@
 # ResponsiveHtmlLayout
-Test out creating a responsive layout that fills the entire screen using flex and grid.
+Test out creating a responsive layout that fills the entire screen using flex and grid.  Note that this is not intended to be a layout for a site, just testing out flex and grid.
 
 # Objective
 Better understand flex and grid by creating a 3 section page consisting of a top part for navigation, a main area which has 3 columns, and a footer. 
